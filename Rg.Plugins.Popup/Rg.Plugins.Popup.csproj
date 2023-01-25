@@ -1,6 +1,6 @@
 ﻿<Project Sdk="MSBuild.Sdk.Extras">
   <PropertyGroup Condition=" '$(TargetsToBuild)' == 'All' ">
-    <TargetFrameworks>netstandard2.0;xamarin.ios10;xamarin.mac20;xamarin.tvos10;xamarin.watchos10;monoandroid10.0;tizen80;netcoreapp3.1;net472</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;xamarin.ios10;monoandroid10.0;</TargetFrameworks>
     <TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">uap10.0.18362;$(TargetFrameworks)</TargetFrameworks>
   </PropertyGroup>
 
@@ -14,7 +14,7 @@
   <PropertyGroup>
     <AssemblyName>Rg.Plugins.Popup</AssemblyName>
     <RootNamespace>Rg.Plugins.Popup</RootNamespace>
-    <PackageId>Rg.Plugins.Popup</PackageId>
+    <PackageId>SnagR.Rg.Plugins.Popup</PackageId>
     <Description>Plugin for Xamarin forms. Allows you to open any page as a popup.</Description>
     <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
     <UseWPF Condition=" '$(OS)' == 'Windows_NT' ">true</UseWPF>
