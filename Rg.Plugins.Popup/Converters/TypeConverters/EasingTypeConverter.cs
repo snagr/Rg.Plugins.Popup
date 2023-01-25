@@ -1,4 +1,6 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Linq;
+using System.Reflection;
 using Xamarin.Forms;
 
 namespace Rg.Plugins.Popup.Converters.TypeConverters

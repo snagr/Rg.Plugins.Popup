@@ -1,4 +1,5 @@
-﻿using CoreGraphics;
+﻿using System;
+using CoreGraphics;
 using Foundation;
 using Rg.Plugins.Popup.Pages;
 using UIKit;

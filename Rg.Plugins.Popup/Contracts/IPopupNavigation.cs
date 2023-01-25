@@ -1,4 +1,7 @@
-﻿using Rg.Plugins.Popup.Events;
+﻿using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using Rg.Plugins.Popup.Events;
 using Rg.Plugins.Popup.Pages;
 
 namespace Rg.Plugins.Popup.Contracts

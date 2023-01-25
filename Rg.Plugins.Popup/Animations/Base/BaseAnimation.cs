@@ -1,4 +1,5 @@
-﻿using Rg.Plugins.Popup.Converters.TypeConverters;
+﻿using System.Threading.Tasks;
+using Rg.Plugins.Popup.Converters.TypeConverters;
 using Rg.Plugins.Popup.Interfaces.Animations;
 using Rg.Plugins.Popup.Pages;
 using Xamarin.Forms;

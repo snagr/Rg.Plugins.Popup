@@ -1,4 +1,5 @@
 ﻿
+using System.Linq;
 using Rg.Plugins.Popup.IOS.Renderers;
 using Rg.Plugins.Popup.Pages;
 using UIKit;

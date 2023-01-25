@@ -1,4 +1,6 @@
-﻿namespace Rg.Plugins.Popup.Enums
+﻿using System;
+
+namespace Rg.Plugins.Popup.Enums
 {
     [Flags]
     public enum PaddingSide

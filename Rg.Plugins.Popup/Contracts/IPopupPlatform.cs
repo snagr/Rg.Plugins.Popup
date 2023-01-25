@@ -1,4 +1,6 @@
-﻿using Rg.Plugins.Popup.Pages;
+﻿using System;
+using System.Threading.Tasks;
+using Rg.Plugins.Popup.Pages;
 
 namespace Rg.Plugins.Popup.Contracts
 {

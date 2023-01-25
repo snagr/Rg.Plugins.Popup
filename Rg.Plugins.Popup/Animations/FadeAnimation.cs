@@ -1,4 +1,5 @@
-﻿using Rg.Plugins.Popup.Animations.Base;
+﻿using System.Threading.Tasks;
+using Rg.Plugins.Popup.Animations.Base;
 using Rg.Plugins.Popup.Pages;
 using Xamarin.Forms;
 
