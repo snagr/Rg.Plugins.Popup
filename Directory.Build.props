@@ -2,23 +2,23 @@
   <PropertyGroup>
     <Copyright>Copyright (c) Kirill Lyubimov</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/rotorgames/Rg.Plugins.Popup</PackageProjectUrl>
-    <PackageIconUrl>https://raw.githubusercontent.com/rotorgames/Rg.Plugins.Popup/master/icons/icon.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/snagr/Rg.Plugins.Popup</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/snagr/Rg.Plugins.Popup/master/icons/icon.png</PackageIconUrl>
     <!--<PackageIcon>icon.png</PackageIcon>
     <PackageIconFullPath>$(MSBuildThisFileDirectory)icon.png</PackageIconFullPath>-->
     <Authors>Kirill Lyubimov</Authors>
     <Owners>Kirill Lyubimov, rotorgames, martijn00, Baseflow</Owners>
     <PackageTags>Xamarin.Forms, xamarin, forms, popup, page, modal</PackageTags>
-    <PackageReleaseNotes>https://github.com/rotorgames/Rg.Plugins.Popup/releases</PackageReleaseNotes>
+    <PackageReleaseNotes>https://github.com/snagr/Rg.Plugins.Popup/releases</PackageReleaseNotes>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <NeutralLanguage>en-US</NeutralLanguage>
     <MinClientVersion>2.12</MinClientVersion>
 
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <RepositoryUrl>https://github.com/rotorgames/Rg.Plugins.Popup</RepositoryUrl>
+    <RepositoryUrl>https://github.com/snagr/Rg.Plugins.Popup</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Product>$(AssemblyName) ($(TargetFramework))</Product>
-    <Version>2.0.0.14-1</Version>
+    <Version>2.1.0-1</Version>
 
     <!--<Nullable>enable</Nullable>-->
     <ImplicitUsings>enable</ImplicitUsings>
